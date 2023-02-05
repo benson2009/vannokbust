@@ -1,0 +1,19 @@
+.card {
+  border-radius: 1em;
+  text-align: center;
+  padding: 1em;
+}
+.card:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+}
+.card img {
+  border-radius: 50%;
+  width: 60%;
+  margin: auto;
+}
+body {
+  background: linear-gradient(90deg, #100505 0%, #250e9c 100%);
+}
+.table {
+  background-color: #3674ee;
+}
